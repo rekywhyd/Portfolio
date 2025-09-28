@@ -18,7 +18,7 @@ Website ini responsive dan di-deploy menggunakan **Vercel**.
 
 ## 🛠️ Teknologi yang Digunakan
 - **HTML5**
-- **CSS3 / Tailwind CSS**
+- **Tailwind CSS**
 - **JavaScript**
-- **React.js / Next.js** (opsional, jika memang kamu pakai ini)
+- **React.js**
 - **Vercel** (untuk deployment)
